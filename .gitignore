@@ -1,0 +1,10 @@
+cmake-build-debug
+log.txt
+prog_out.txt
+time.txt
+results*.csv
+build
+venv
+.idea
+
+smac-output
